@@ -274,6 +274,10 @@ kkkkkkkkkkkkkkkkkkkkkkkkkkk */
     .checkbtn{
         display:block;
     }
+
+    html{
+      scroll-behavior: smooth;
+    }
     ul{
         position: fixed;
         width:30%;
